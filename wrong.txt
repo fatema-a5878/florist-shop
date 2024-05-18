@@ -1,0 +1,9 @@
+<!-- Banner -->
+        <div class="bg-cover py-[183px] pl-[255px]" style="background-image: url('./images/banner-bg.png');">
+            <p class="qc text-base font-bold mb-3 uppercase">Fresh Flower & Gift Shop</p>
+            <h2 class="li text-5xl leading-snug mb-3">Making beautiful flowers<br>
+                a part of your life.</h2>
+                <div class=" ">
+                    <a class="btn bg-[#F45D96] rounded-full text-white hover:bg-[#C34A78]">SHOP NOW</a>
+                </div>
+        </div>
