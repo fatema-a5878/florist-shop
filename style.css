@@ -14,3 +14,11 @@
 .st{
     font-family: "Style Script", cursive;
 }
+
+.f1 .noti{
+    display: none;
+}
+
+.f1 > .noti:hover{
+    display: flex;
+}
